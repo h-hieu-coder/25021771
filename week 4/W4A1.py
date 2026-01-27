@@ -5,4 +5,4 @@ def  Sum(n):
         n -= 1
     return sum 
 n = int(input())
-print(Sum(n))
+print(Sum(n))#
